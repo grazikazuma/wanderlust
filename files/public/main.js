@@ -1,10 +1,12 @@
 // Foursquare API Info
+
 const foursquareKey = 'foursquareKeyValue'; // change foursquareKeyValue for  apiKey  of from https://developer.foursquare.com/
 const url = 'https://api.foursquare.com/v3/places/search?near=';
 
 // OpenWeather Info
 const openWeatherKey = 'openWeatherKeyValue'; //change openWeatherKeyValue for  apiKey  of https://openweathermap.org/current
-const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
+
+
 
 // Page Elements
 const $input = $('#city');
